@@ -18,7 +18,6 @@ class TodoApp extends StatelessWidget {
   }
 
   AppBar _appBar() {
-    // Merhaba
     return AppBar(
       scrolledUnderElevation: 0,
       elevation: 0,
